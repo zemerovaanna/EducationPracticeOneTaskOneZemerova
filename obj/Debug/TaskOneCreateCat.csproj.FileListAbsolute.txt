@@ -1,0 +1,16 @@
+D:\Edication Practice 25 May Start\TaskOneCreateCat\obj\Debug\TaskOneCreateCat.csproj.CoreCompileInputs.cache
+D:\Edication Practice 25 May Start\TaskOneCreateCat\bin\Debug\TaskOneCreateCat.exe.config
+D:\Edication Practice 25 May Start\TaskOneCreateCat\bin\Debug\TaskOneCreateCat.exe
+D:\Edication Practice 25 May Start\TaskOneCreateCat\bin\Debug\TaskOneCreateCat.pdb
+D:\Edication Practice 25 May Start\TaskOneCreateCat\obj\Debug\TaskOneCreateCat.exe
+D:\Edication Practice 25 May Start\TaskOneCreateCat\obj\Debug\TaskOneCreateCat.pdb
+D:\Edication Practice 25 May Start\TaskOneCreateCat\obj\Debug\TaskOneCreateCat.csproj.AssemblyReference.cache
+D:\Edication Practice 25 May Start\TaskOneCreateCat\obj\Debug\TaskOneCreateCat.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\Desktop\TaskOneCreateCat\bin\Debug\TaskOneCreateCat.exe.config
+C:\Users\home\Desktop\TaskOneCreateCat\bin\Debug\TaskOneCreateCat.exe
+C:\Users\home\Desktop\TaskOneCreateCat\bin\Debug\TaskOneCreateCat.pdb
+C:\Users\home\Desktop\TaskOneCreateCat\obj\Debug\TaskOneCreateCat.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\TaskOneCreateCat\obj\Debug\TaskOneCreateCat.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\Desktop\TaskOneCreateCat\obj\Debug\TaskOneCreateCat.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\TaskOneCreateCat\obj\Debug\TaskOneCreateCat.exe
+C:\Users\home\Desktop\TaskOneCreateCat\obj\Debug\TaskOneCreateCat.pdb
